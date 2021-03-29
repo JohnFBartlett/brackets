@@ -1,0 +1,17 @@
+.matchup {
+  outline-color: gray;
+  outline-style: solid;
+  display: flex;
+  min-width: 20px;
+  margin: 10px;
+}
+
+.entry {
+  min-width: 10em;
+}
+
+.score {
+  vertical-align: middle;
+  text-align: center;
+  margin-left: 10px;
+}

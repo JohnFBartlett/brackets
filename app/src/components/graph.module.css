@@ -1,0 +1,10 @@
+.gridWrapper {
+  display: flex;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: space-around;
+}
